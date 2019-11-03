@@ -1,0 +1,25 @@
+{
+  "name": "dagweaver",
+  "version": "0.0.1",
+  "description": "DAG layout and validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tibyte/dagweaver.git"
+  },
+  "author": {
+    "name": "Beomyeong Kim"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tibyte/dagweaver/issues"
+  },
+  "homepage": "https://github.com/tibyte/dagweaver#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
